@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // TYPING EFFECT
   // =============================
   if (typingElement) {
-    const text = "Computer Science Student Focused on Logic-Driven Solutions";
+    const text = "Mini Portfolio of Aeron Rayfeel Oen Projects and Skills";
     let index = 0;
 
     function type() {
