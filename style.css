@@ -316,3 +316,44 @@ body.light-mode textarea {
   border: 4px solid var(--primary);
   box-shadow: 0 10px 30px rgba(0,0,0,0.3);
 }
+
+/* Smooth transition */
+.skill-card {
+  transition: 0.3s ease;
+}
+
+/* C */
+.skill-c:hover {
+  background: #61dafb;
+  color: #0f172a;
+}
+
+/* Java */
+.skill-java:hover {
+  background: #f89820;
+  color: white;
+}
+
+/* HTML */
+.skill-html:hover {
+  background: #e34c26;
+  color: white;
+}
+
+/* CSS */
+.skill-css:hover {
+  background: #264de4;
+  color: white;
+}
+
+/* JavaScript */
+.skill-js:hover {
+  background: #f7df1e;
+  color: #000;
+}
+
+/* Figma */
+.skill-figma:hover {
+  background: #a259ff;
+  color: white;
+}
